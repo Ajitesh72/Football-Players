@@ -1,5 +1,5 @@
 # Football-Players
-In This project my major focus was to learn the use of components and using local Data to use it together to Display in the Web Page
+In This project my major focus was to learn the use of components and using local Data to use it together to Display in the Web Page using REACT.JS
 
 //USE VITE TO RUN THIS APPLICATION//
 
