@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(76, 135, 127);
+    
+}
+.nav_icon{
+    height: 80px;
+   position: absolute;
+   margin-left: 10px;
+   
+}
+
+.nav_title{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    padding: 30px ;
+    /* background-color: rgb(112, 168, 168); */
+    box-shadow: 100px;
+    width:100%;
+  
+}
+
+.card_image{
+    margin-top: 35px;
+      height: 289px;
+      border-radius: 20px;
+      border: solid;
+}
+
+.card_ovr{
+    margin-left: 5px;
+    height:150px;
+    position:absolute;
+    border-radius: 10px;
+    border: solid;
+}
+
+.Card_Info{
+    margin-left: 150px;
+}
+
+.Card
+{
+    /* padding: 200px 200px; */
+    flex: 0 0 auto;         /* ADD */
+    display: flex;          /* ADD */
+    flex-direction: column; /* ADD */
+    
+
+}
+.card_list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: none;
+}
+
+.Card_Info{
+    font-style: italic;
+    font-size: large;
+    color:rgb(30, 53, 21);
+}
